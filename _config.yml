@@ -1,0 +1,28 @@
+name: arroyoseco
+favicon: null
+layout_spectrum: 0.8102647091727704
+typography_spectrum: 0.1375517959240824
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.11824449617415667
+  lightness: 0.9114696043543518
+  saturation: 0.8096860824152827
+  rhythmicContrast: 0.7293004731182009
+purpose: []
